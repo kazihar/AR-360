@@ -1,5 +1,5 @@
 # AR-360
-  This APP let's you to have Vlike experince without any VR gear through AR.
+  This APP let's you to have VR like experince without any VR gear through AR.
   
 # Configuration
   1. Install **Video Ar.apk** in Ar 360 folder from the link given below.
